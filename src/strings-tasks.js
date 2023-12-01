@@ -578,7 +578,7 @@ function getCardId(value) {
     '10♠',
     'J♠',
     'Q♠',
-    'K♠',
+    '',
   ];
   return someArr.findIndex((i) => i === value);
 }
